@@ -1,0 +1,1 @@
+gfortran -O3 ising.f90 random.o -o is.x
